@@ -1,0 +1,6 @@
+pulp
+fastapi
+pydantic
+starlette
+uvicorn
+gunicorn
